@@ -1,0 +1,73 @@
+type,type-sm,name,single,extra,double,footer
+Development,dev,Ben,N,Development,dev,
+Development,dev,Kris,N,QA,qa,
+Development,dev,Logan,N,Graphic Designer,graphic,or
+Development,dev,Leslie,N,Client Liaison,client,or
+Development,dev,Reed,Y,,,:)
+Development,dev,Kiran,Y,,,:)
+Development,dev,Cayden,Y,,,
+Development,dev,Joey,Y,,,
+Development,dev,Aarav,Y,,,:(
+Development,dev,Jaden,Y,,,:(
+Development,dev,Oakley,Y,,,-1
+Development,dev,Keegan,Y,,,-1
+Project Management,pm,Ryan,N,Project Management,pm,
+Project Management,pm,Mell,N,QA,qa,
+Project Management,pm,Aaren,N,Client Liaison,client,or
+Project Management,pm,Val,N,Marketing,marketing,or
+Project Management,pm,Kerry,Y,,,:)
+Project Management,pm,Erin,Y,,,:)
+Project Management,pm,Dante,Y,,,
+Project Management,pm,Ayaan,Y,,,
+Project Management,pm,Max,Y,,,:(
+Project Management,pm,Lukas,Y,,,:(
+Project Management,pm,Dane,Y,,,-1
+Project Management,pm,Danny,Y,,,-1
+Client Liaison,client,Sam,N,Client Liaison,client,
+Client Liaison,client,Elliot,N,Marketing,marketing,
+Client Liaison,client,Tanner,N,Graphic Designer,graphic,or
+Client Liaison,client,Fran,N,Project Management,pm,or
+Client Liaison,client,Aaren,Y,,,:)
+Client Liaison,client,Ashley,Y,,,:)
+Client Liaison,client,Brice,Y,,,
+Client Liaison,client,Riley,Y,,,
+Client Liaison,client,Nicky,Y,,,:(
+Client Liaison,client,Charlie,Y,,,:(
+Client Liaison,client,Gale,Y,,,-1
+Client Liaison,client,Avery,Y,,,-1
+Graphic Designer,graphic,Gail,N,Graphic Designer,graphic,
+Graphic Designer,graphic,Jessie,N,Marketing,marketing,
+Graphic Designer,graphic,Aiden,N,Development,dev,or
+Graphic Designer,graphic,Erin,N,Project Management,pm,or
+Graphic Designer,graphic,Gale,Y,,,:)
+Graphic Designer,graphic,Gene,Y,,,:)
+Graphic Designer,graphic,Jaime,Y,,,
+Graphic Designer,graphic,Terry,Y,,,
+Graphic Designer,graphic,Kit,Y,,,:(
+Graphic Designer,graphic,Carmen,Y,,,:(
+Graphic Designer,graphic,Harper,Y,,,-1
+Graphic Designer,graphic,Fran,Y,,,-1
+QA,qa,Bret,N,QA,qa,
+QA,qa,Ash,N,Graphic Designer,graphic,
+QA,qa,Lane,N,Project Management,pm,or
+QA,qa,Marley,N,Development,dev,or
+QA,qa,Sidney,Y,,,:)
+QA,qa,Phoenix,Y,,,:)
+QA,qa,Lesley,Y,,,
+QA,qa,Dane,Y,,,
+QA,qa,River,Y,,,:(
+QA,qa,Kai,Y,,,:(
+QA,qa,Danni,Y,,,-1
+QA,qa,Glen,Y,,,-1
+Marketing,marketing,Carol,N,Marketing,marketing,
+Marketing,marketing,Avery,N,Project Management,pm,
+Marketing,marketing,Mel,N,Client Liaison,client,or
+Marketing,marketing,Sam,N,QA,qa,or
+Marketing,marketing,Vic,Y,,,:)
+Marketing,marketing,Sam,Y,,,:)
+Marketing,marketing,Erin,Y,,,
+Marketing,marketing,Aiden,Y,,,
+Marketing,marketing,Billy,Y,,,:(
+Marketing,marketing,Sammy,Y,,,:(
+Marketing,marketing,Aiden,Y,,,-1
+Marketing,marketing,Caden,Y,,,-1
