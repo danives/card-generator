@@ -1,38 +1,21 @@
-.App {
-  text-align: center;
+body {
+  font-family: Lato;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.square.dev {
+  background-color: #5496cc;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.square.pm {
+  background-color: #eaae45;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.square.client {
+  background-color: #66d166;
 }
-
-.App-link {
-  color: #61dafb;
+.square.graphic {
+  background-color: #ba4ada;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.square.qa {
+  background-color: #e6e844;
+}
+.square.marketing {
+  background-color: #e55252;
 }
